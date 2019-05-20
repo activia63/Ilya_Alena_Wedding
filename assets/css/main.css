@@ -2650,7 +2650,7 @@ input, select, textarea {
 		display: flex;
 	}
 
-		.spotlight .image {
+		.spotlight ./*image*/ img {
 			-moz-order: 1;
 			-webkit-order: 1;
 			-ms-order: 1;
@@ -2659,7 +2659,7 @@ input, select, textarea {
 			width: 40%;
 		}
 
-			.spotlight .image img {
+			.spotlight ./*image*/ img img {
 				border-radius: 0;
 				width: 100%;
 			}
@@ -2723,7 +2723,7 @@ input, select, textarea {
 
 		@media screen and (max-width: 1280px) {
 
-			.spotlight .image {
+			.spotlight ./*image*/ img {
 				width: 45%;
 			}
 
@@ -2743,7 +2743,7 @@ input, select, textarea {
 					display: none;
 				}
 
-				.spotlight .image {
+				.spotlight ./*image*/ {
 					width: 100%;
 				}
 
@@ -2954,7 +2954,7 @@ input, select, textarea {
 
 			}
 
-		.wrapper.style2 {
+		.wrapper. spotlight {
 			/*background-color: #2e3842;*/
 background-color: #11ffee00
 		}
