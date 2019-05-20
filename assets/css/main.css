@@ -2797,7 +2797,7 @@ input, select, textarea {
 
 		.wrapper.style1 {
 			background-color: #21b2a6;
-			color: #c8ece9;
+			color: /*#c8ece9;*/ #11ffee00;
 		}
 
 			.wrapper.style1 strong, .wrapper.style1 b {
