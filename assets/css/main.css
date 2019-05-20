@@ -2661,7 +2661,7 @@ input, select, textarea {
 
 			.spotlight ./*image*/ img img {
 				border-radius: 0;
-				width: 100%;
+				width: /*100%;*/ 50%;
 			}
 
 		.spotlight .content {
@@ -2671,7 +2671,7 @@ input, select, textarea {
 			-ms-order: 2;
 			order: 2;
 			max-width: 48em;
-			width: 60%;
+			width: /*60%;*/ 50%;
 		}
 
 		.spotlight:nth-child(2n) {
@@ -2744,14 +2744,14 @@ input, select, textarea {
 				}
 
 				.spotlight ./*image*/ {
-					width: 100%;
+					width: /*100%;*/ 50%;
 				}
 
 				.spotlight .content {
 					padding: 4em 3em 2em 3em ;
 					max-width: none;
 					text-align: center;
-					width: 100%;
+					width: /*100%;*/ 50%;
 				}
 
 		}
