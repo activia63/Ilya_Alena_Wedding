@@ -2797,19 +2797,19 @@ input, select, textarea {
 
 		.wrapper.style1 {
 			background-color: #21b2a6;
-			color: /*#c8ece9;*/ #000080;
+			color: /*#c8ece9;*/ #000000;
 		}
 
 			.wrapper.style1 strong, .wrapper.style1 b {
-				color: #000080;
+				color: #000000;
 			}
 
 			.wrapper.style1 h2, .wrapper.style1 h3, .wrapper.style1 h4, .wrapper.style1 h5, .wrapper.style1 h6 {
-				color: #000080;
+				color: #000000;
 			}
 
 			.wrapper.style1 hr {
-				border-color: /*rgba(0, 0, 0, 0.125)*/ #000080;
+				border-color: /*rgba(0, 0, 0, 0.125)*/ #000000;
 			}
 
 			.wrapper.style1 blockquote {
