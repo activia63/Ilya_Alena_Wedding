@@ -2809,7 +2809,7 @@ input, select, textarea {
 			}
 
 			.wrapper.style1 hr {
-				border-color: rgba(0, 0, 0, 0.125);
+				border-color: /*rgba(0, 0, 0, 0.125)*/ #ffffff;
 			}
 
 			.wrapper.style1 blockquote {
