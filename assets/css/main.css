@@ -2801,15 +2801,15 @@ input, select, textarea {
 		}
 
 			.wrapper.style1 strong, .wrapper.style1 b {
-				color: #ffffff;
+				color: #000080;
 			}
 
 			.wrapper.style1 h2, .wrapper.style1 h3, .wrapper.style1 h4, .wrapper.style1 h5, .wrapper.style1 h6 {
-				color: #ffffff;
+				color: #000080;
 			}
 
 			.wrapper.style1 hr {
-				border-color: /*rgba(0, 0, 0, 0.125)*/ #ffffff;
+				border-color: /*rgba(0, 0, 0, 0.125)*/ #000080;
 			}
 
 			.wrapper.style1 blockquote {
