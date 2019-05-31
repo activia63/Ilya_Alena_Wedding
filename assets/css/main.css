@@ -87,7 +87,7 @@ input, select, textarea {
 	}
 
 	body {
-		background: #2e3842;
+		background: #f2dfcc;
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
@@ -2797,19 +2797,19 @@ input, select, textarea {
 
 		.wrapper.style1 {
 			background-color: #21b2a6;
-			color: /*#c8ece9;*/ #000000;
+			color: /*#c8ece9;*/ #11ffee00;
 		}
 
 			.wrapper.style1 strong, .wrapper.style1 b {
-				color: #000000;
+				color: #ffffff;
 			}
 
 			.wrapper.style1 h2, .wrapper.style1 h3, .wrapper.style1 h4, .wrapper.style1 h5, .wrapper.style1 h6 {
-				color: #000000;
+				color: #ffffff;
 			}
 
 			.wrapper.style1 hr {
-				border-color: /*rgba(0, 0, 0, 0.125)*/ #000000;
+				border-color: rgba(0, 0, 0, 0.125);
 			}
 
 			.wrapper.style1 blockquote {
@@ -3128,11 +3128,11 @@ background-color: #11ffee00
 		}
 
 			.wrapper.style5 strong, .wrapper.style5 b {
-				color: #2E3842;
+				color: #f2dfcc;
 			}
 
 			.wrapper.style5 h2, .wrapper.style5 h3, .wrapper.style5 h4, .wrapper.style5 h5, .wrapper.style5 h6 {
-				color: #2E3842;
+				color: #f2dfcc;
 			}
 
 			.wrapper.style5 hr {
@@ -3160,7 +3160,7 @@ background-color: #11ffee00
 			}
 
 			.wrapper.style5 label {
-				color: #2E3842;
+				color: #f2dfcc;
 			}
 
 			.wrapper.style5 input[type="text"],
@@ -3176,7 +3176,7 @@ background-color: #11ffee00
 			}
 
 				.wrapper.style5 select option {
-					color: #2E3842;
+					color: #f2dfcc;
 					background: #ffffff;
 				}
 
@@ -3192,7 +3192,7 @@ background-color: #11ffee00
 
 			.wrapper.style5 input[type="checkbox"]:checked + label:before,
 			.wrapper.style5 input[type="radio"]:checked + label:before {
-				background: #2E3842;
+				background: #f2dfcc;
 				color: #ffffff;
 			}
 
@@ -3233,7 +3233,7 @@ background-color: #11ffee00
 				}
 
 			.wrapper.style5 table th {
-				color: #2E3842;
+				color: #f2dfcc;
 			}
 
 			.wrapper.style5 table thead {
@@ -3254,7 +3254,7 @@ background-color: #11ffee00
 			.wrapper.style5 button,
 			.wrapper.style5 .button {
 				box-shadow: inset 0 0 0 2px #dfdfdf;
-				color: #2E3842;
+				color: #f2dfcc;
 			}
 
 				.wrapper.style5 input[type="submit"]:hover,
@@ -3425,7 +3425,7 @@ background-color: #11ffee00
 		-webkit-transition: background-color 0.2s ease;
 		-ms-transition: background-color 0.2s ease;
 		transition: background-color 0.2s ease;
-		background: #2e3842;
+		background: #f2dfcc;
 		height: 3em;
 		left: 0;
 		line-height: 3em;
@@ -3674,7 +3674,7 @@ background-color: #11ffee00
 			-ms-transition-delay: 1.25s;
 			transition-delay: 1.25s;
 			content: '';
-			background: #2e3842;
+			background: #f2dfcc;
 			display: block;
 			width: 100%;
 			height: 100%;
